@@ -1,7 +1,7 @@
 # Ece5831-2025 Final Project
 
 # Stock Market Value Prediction
-By: Jayanth Nama, Vrunda 
+By: Sayojya Patil, Jayanth Nama, Vrunda Kadam
 
 
 # Project Overview
@@ -29,5 +29,11 @@ Directional Accuracy
 Visual comparisons (actual vs. predicted, overlay plots, zoomed-in views)
 This combination provides insight into accuracy, robustness, trend-following ability, and risk.
 
-# Links:
+# Links: 
+
+- Pre-recorded presentation video: https://drive.google.com/file/d/1qYlFpMUo3ds9hKFlOGwGPn2GzjpGGLAb/view?usp=drive_link
+- Presentation slides: https://docs.google.com/presentation/d/1kK9vDVO_8dv08J55woL6Vu_OkJvodhsg/edit?usp=drive_link&ouid=115378471990167619842&rtpof=true&sd=true
+- Report: https://drive.google.com/file/d/1Ldy28P2wvgO7VyFD4JEbUbUBLkba5e5B/view?usp=drive_link
+- Dataset: https://drive.google.com/file/d/1nDnhtlFZCzG_5JPXLz-D3ZQkeQCWJoMw/view?usp=drive_link
+- Demo video: https://youtu.be/BBZOg-26CsI
 
